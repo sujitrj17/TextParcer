@@ -1,0 +1,92 @@
+                                                                TVS CREDIT SERVICES LIMITED 
+
+
+
+STATEMENT OF ACCOUNT AS ON 31/07/2018
+AGMT.NO. : WB3078CD0012069     AGREEMENTED DATE. 15/05/2018
+PROP.NO. : 3078CD0012069       
+CUST NO. : 0009864380
+RESIDENCE ADDRESS:                 OFFICE ADDRESS :                   GUARANTOR ADDRESS:                 CO-APPLICANT ADDRESS:              
+Rahul  Dalui                                                                                             
+S/D/W/o PROVAT DALUI               S/D/W/o PROVAT DALUI                                                  
+CHHATINAKANDI KANDI                CHHATINAKANDI KANDI                                                   
+MURSHIDABAD                        MURSHIDABAD                                                           
+                                                                                                         
+                                                                                                                                            
+                                                                                                                                            
+Murshidabad 742137                 Murshidabad 742137                                                                                       
+WEST BENGAL                        WEST BENGAL                                                           
+Landmark:                          Landmark:                          Landmark:                          Landmark:                          
+Phone no:                          Phone no:                          Phone no:                          Phone no:                          
+Mobile  : 9851636838                         
+
+FI CONTACT DETAILS:
+LANDLINE NUMBER:                                    MOBILE NUMBER:    9851636838                         
+
+CUST IRR (Fixed):0.00% P.a.   SerChgs:1,530.00     Advfinchgs:0  UpfrontintChargs:  -  Insprem :0.00   Status :LIVE  Payment Type:ADM
+
+Dealer : HAPPY ELECTRONIC  No. of Instalments : 12  Adv EMI : 4   Asset Type :GODREJ REF RD EDGEPRO 210 CT 3.2 
+
+Amt.Fin : 16,000.00  Fin.Chgs:8.00     Adv Ins :0     Grace Days :0  ADM : 8 -- 07/01/2019
+------------------------------------------------------------------------------------------------------------------------------------------------------
+INST DUE DATE      DUE AMOUNT  REC AMOUNT  REC DATE    ADJUST.EMI  OTHER.ADJ EXCESS ADJ   DELAYED DAYS  ODINT  CHEQUE NO                        REAL STATUS 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1    07/06/2018      1,334.00    1,334.00  27/06/2018    1,334.00      0.00       0.00           20     26.39 CA/180646912                      -           
+2    07/07/2018      1,334.00    1,334.00  23/07/2018    1,334.00      0.00       0.00           16     21.12 CA/180710323                      -           
+------------------------------------------------------------------------------------------------------------------------------------------------------
+                     2,668.00    2,668.00                2,668.00       0.00       0.00                  47.51
+------------------------------------------------------------------------------------------------------------------------------------------------------
+    Future Dues (Excl. ADV EMI) as on 31/07/2018:8,004.00
+    Expected NOC Generation : 07/05/2019 -- Subject to clearing of all dues
+
+BOUNCED CHEQUES DETAILS
+-----------------------
+CHEQUE NO           CHEQUE DATE    AMOUNT         CHEQUE UPDATED DATE           NO. OF BOUNCE       REASON                                  
+-------------------------------------------------------------------------------------------------------------------
+ACH                 07/06/2018     1,334.00       13/06/2018                       1           HLD-MIS(INSUFFICIENT FUND FOR VERIFY)   
+ACH                 07/07/2018     1,334.00       08/07/2018                       1           HLD-MIS(INSUFFICIENT FUND FOR VERIFY)   
+ACH                 07/06/2019     1,334.00       13/06/2018                       1           HLD-MIS(INSUFFICIENT FUND FOR VERIFY)   
+ACH                 07/07/2019     5,234.00       08/07/2018                       3           UnReasoned   
+
+CHEQUE BOUNCED CHARGES        OVERDUE INTEREST              SUMMARY                       COLLECTION CHARGES            
+--------------------          --------------------          --------------------          --------------------
+Amount Charged :          0.00 Delay Days Interest :         Over Due Amt :           0.00 Receivable :             0.00
+Less  Collection :        0.00(Excl.grace period):     47.51 Bal Chq Bounchg          0.00 Less Collection :        0.00
+Less Waived Amount :      0.00 Less  Collection :       0.00 Bal Overdue Int         47.51 Less Waived Amount       0.00
+                               Less Waived Amount:      0.00 Bal Coll.Charges         0.00 Balance :                0.00
+                                                             Bal Legal Charges        0.00 SEIZURE CHARGES              
+                                                             Bal Seizure Charges      0.00--------------------          
+                                                             INS to be coll :         0.00 Receivable :             0.00
+                                                             Other Charges  :         0.00 Less  Collection :       0.00
+
+ Balance :                     Balance to be received :      Net Overdue                   Less Waived Amount       0.00
+                    ----------                    ----------                    ---------- Balance :                0.00
+
+                          0.00                         47.51                         47.51
+                    ----------                    ----------                    ----------
+                                                           Excess Amount :            0.00
+CHARGES RECEIPT DETAILS:                                                                   LEGAL CHARGES       
+----------------------------------------------------------------------------------          ----------          
+TYPE                     CHEQUE NO                CHEQUE DATE              AMOUNT          Receivable :              0.00
+----------------------------------------------------------------------------------         Less Collection :         0.00
+                                                                                           Less Waived Amount :      0.00
+                                                                                           Balance :                 0.00
+                                                                                           OTHER RECOVERIES    
+                                                                                           ---------------
+                                                                                           Insurance Receivable:      0.00
+                                                                                           Insurance Received:        0.00
+                                                                                           Less Waived Amount:        0.00
+                                                                                           Balance :                  0.00
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+---------------------------------------------------------------------------------
+
+AGMT NO             PROP NO             CUST NAME                           LOAN AMT         EMI  OUTSTANDING AMOUNT FIRST INST DATE  LAST INST DATE     DEALER CODE                   DEALER NAME
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+For any queries please contact  Helpdesk Toll Free no : 1800 - 425 - 3883
